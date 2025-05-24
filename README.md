@@ -82,4 +82,4 @@ Merging CSV and Excel files streamlines data analysis, enhances reporting, and e
 
 # OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/3f08c39a-d1ae-45c9-8b70-960461f35b85)
